@@ -29,6 +29,11 @@
       "name": "Notebook",
       "price": "3567.87",
       "id": 6
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "2.50",
+      "id": 7
     }
   ]
 }
