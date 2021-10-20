@@ -21,5 +21,5 @@ export class ProductReadComponent implements OnInit {
       console.log(products)
     })
   }
-  
+
 }
